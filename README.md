@@ -3,6 +3,12 @@ An Arduino UNO based climate logger
 
 This sketch will log a variety of sensors to SD card using the Adafruit Data Logging shield.
 
+Requires the following libraries:  
+https://github.com/sparkfun/SparkFun_ISL29125_Breakout_Arduino_Library  
+https://github.com/adafruit/RTClib  
+https://github.com/adafruit/SD  
+https://github.com/adafruit/DHT-sensor-library  
+
 ```
 Digital Pins
 ------------
